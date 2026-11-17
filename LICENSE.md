@@ -1,5 +1,6 @@
-# BYTEFORGE HIVE
-## Proprietary Software License
+[![Byteforge Hive — Legal and Licensing](.github/assets/byteforge-license-banner.svg)](https://byteforgehive.com/)
+
+# Proprietary Software License
 
 **Copyright © 2026 BYTEFORGE HIVE. All rights reserved.**
 
@@ -11,10 +12,14 @@
 | Licensing contact | info@byteforgehive.com |
 | Website | https://byteforgehive.com/ |
 
+[Ownership](#1-scope-and-ownership) · [Commercial licensing](#4-authorized-use-and-commercial-licensing) · [Third-party rights](#5-third-party-materials) · [Contact](#10-permissions-and-enquiries)
+
+---
+
 This document reserves rights in BYTEFORGE HIVE's proprietary materials. It does
 not grant an open-source license or replace a separate written agreement.
 
-### 1. Scope and ownership
+## 1. Scope and ownership
 
 This notice applies to the original software and associated materials owned by
 BYTEFORGE HIVE, or for which BYTEFORGE HIVE has the right to impose these terms,
@@ -27,7 +32,7 @@ respective lawful owners. No ownership is transferred. This notice does not
 claim ownership of third-party materials or of ideas, methods or other subject
 matter that applicable law does not protect.
 
-### 2. Reservation of rights; no implied license
+## 2. Reservation of rights; no implied license
 
 The Software is proprietary and is not offered under an open-source license.
 Except as expressly permitted by a separate written agreement, applicable law,
@@ -45,7 +50,7 @@ does not override viewing or forking permissions provided through GitHub's
 public-repository functionality. Those permissions do not create a broader
 license under this notice.
 
-### 3. Restricted activities
+## 3. Restricted activities
 
 Unless authorized under Section 2, no person or organization may:
 
@@ -63,7 +68,7 @@ Unless authorized under Section 2, no person or organization may:
 These restrictions apply only to the extent permitted by applicable law.
 They do not override lawful exceptions, existing grants or third-party rights.
 
-### 4. Authorized use and commercial licensing
+## 4. Authorized use and commercial licensing
 
 BYTEFORGE HIVE may grant permissions through a separate written agreement,
 including commercial or enterprise licenses, SaaS subscriptions, API and SDK
@@ -77,7 +82,7 @@ The applicable written agreement governs the authorized use and takes
 precedence over this notice to the extent of a conflict. This notice does not
 expand, cancel or replace rights or obligations under that agreement.
 
-### 5. Third-party materials
+## 5. Third-party materials
 
 The Software may include or depend on third-party code, libraries, frameworks,
 models, datasets, fonts, media or other materials governed by separate terms.
@@ -89,7 +94,7 @@ attribution, notice, source-disclosure or redistribution obligations where
 applicable. If this notice conflicts with the applicable third-party terms,
 those terms govern the affected third-party materials.
 
-### 6. Earlier licenses and existing grants
+## 6. Earlier licenses and existing grants
 
 Permissions validly granted for an earlier version or copy under an open-source,
 commercial or other license remain governed by that license and its conditions.
@@ -100,7 +105,7 @@ to license on these terms. It does not relicense another contributor's work or
 third-party material without the necessary authority. Existing copyright notices
 and applicable license notices must be preserved as required.
 
-### 7. Trademarks and branding
+## 7. Trademarks and branding
 
 The BYTEFORGE HIVE name, product names, logos, brand identities and associated
 trademarks or service marks belong to their respective lawful owners.
@@ -108,7 +113,7 @@ trademarks or service marks belong to their respective lawful owners.
 No permission to use those marks or imply sponsorship, affiliation or endorsement
 is granted by this notice, except where separately authorized or permitted by law.
 
-### 8. Disclaimer of warranties
+## 8. Disclaimer of warranties
 
 Except as expressly provided in a separate written agreement, and to the maximum
 extent permitted by applicable law, the Software is provided **“AS IS” and
@@ -120,7 +125,7 @@ BYTEFORGE HIVE does not promise that the Software will be uninterrupted,
 error-free, secure against every threat, or suitable for a particular purpose.
 Mandatory warranties and rights that cannot lawfully be excluded remain intact.
 
-### 9. Limitation of liability
+## 9. Limitation of liability
 
 Except as expressly provided in a separate written agreement, and to the maximum
 extent permitted by applicable law, BYTEFORGE HIVE and its licensors shall not
@@ -132,7 +137,7 @@ loss or damage.
 Nothing in this notice excludes or limits liability, remedies or consumer rights
 that cannot lawfully be excluded or limited.
 
-### 10. Permissions and enquiries
+## 10. Permissions and enquiries
 
 For permission to use, distribute, integrate or commercially license the Software,
 contact BYTEFORGE HIVE:
